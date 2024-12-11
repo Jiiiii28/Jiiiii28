@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jiiiii28
-- 👀 I’m interested in IT BIGDATA
+- 👀 I’m interested in Java, AI
 - 📫 How to reach me 1852035262@qq.com
-- ✨本科就读于成都理工大学（2024毕业）
+- ✨ 目前就读于西南交通大学软件工程专业
 
 <!---
 Jiiiii28/Jiiiii28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
